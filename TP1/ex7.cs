@@ -145,7 +145,7 @@ class Program
         return (horasCobradas, valorTotal);
     }
 
-    /// Classifica a permanência do veículo conforme as regras de negócio:
+    /// Classifica a permanência do veículo conforme as regras de negocio. tank you! 
     public static string ClassificarPermanencia(int totalMinutos)
     {
         if (totalMinutos <= 0)
