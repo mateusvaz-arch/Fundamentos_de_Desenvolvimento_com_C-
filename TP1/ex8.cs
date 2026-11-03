@@ -71,7 +71,7 @@ class Program
                     break;
 
                 case "6":
-                    Console.WriteLine("Encerrando o programa. Bom turno de trabalho!");
+                    Console.WriteLine("Encerrando o programa. Bom trabalho!");
                     break;
 
                 default:
